@@ -28,43 +28,43 @@ export default Controller.extend({
             link: 'i-i-s-novyjj-postamat-транзакция-l',
             caption: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-транзакция-l.caption'),
             title: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-транзакция-l.title'),
-            icon: 'calendar',
+            icon: 'address card',
             children: null
           }, {
             link: 'i-i-s-novyjj-postamat-служба-доставки-l',
             caption: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-служба-доставки-l.caption'),
             title: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-служба-доставки-l.title'),
-            icon: 'phone',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-novyjj-postamat-логистика-l',
             caption: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-логистика-l.caption'),
             title: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-логистика-l.title'),
-            icon: 'file',
+            icon: 'paperclip',
             children: null
           }, {
             link: 'i-i-s-novyjj-postamat-пользователь-l',
             caption: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-пользователь-l.caption'),
             title: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-пользователь-l.title'),
-            icon: 'folder',
+            icon: 'tasks',
             children: null
           }, {
             link: 'i-i-s-novyjj-postamat-постамат-l',
             caption: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-постамат-l.caption'),
             title: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-постамат-l.title'),
-            icon: 'tasks',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-novyjj-postamat-хранение-l',
             caption: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-хранение-l.caption'),
             title: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-хранение-l.title'),
-            icon: 'edit',
+            icon: 'chart line',
             children: null
           }, {
             link: 'i-i-s-novyjj-postamat-ключ-l',
             caption: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-ключ-l.caption'),
             title: i18n.t('forms.application.sitemap.novyjj-postamat.i-i-s-novyjj-postamat-ключ-l.title'),
-            icon: 'address card',
+            icon: 'table',
             children: null
           }]
         }
