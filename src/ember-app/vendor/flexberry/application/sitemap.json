@@ -1,0 +1,64 @@
+﻿{
+  "applicationCaption": "Novyjj_postamat",
+  "applicationTitle": "Novyjj_postamat",
+  "items": [
+    {
+      "link": null,
+      "menuName": "novyjj-postamat",
+      "caption": "Novyjj_postamat",
+      "title": "Novyjj_postamat",
+      "children": [
+        {
+          "link": "i-i-s-novyjj-postamat-транзакция-l",
+          "menuName": null,
+          "caption": "Транзакция",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-novyjj-postamat-служба-доставки-l",
+          "menuName": null,
+          "caption": "Служба доставки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-novyjj-postamat-логистика-l",
+          "menuName": null,
+          "caption": "Логистика",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-novyjj-postamat-пользователь-l",
+          "menuName": null,
+          "caption": "Пользователь",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-novyjj-postamat-постамат-l",
+          "menuName": null,
+          "caption": "Постамат",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-novyjj-postamat-хранение-l",
+          "menuName": null,
+          "caption": "Хранение",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-novyjj-postamat-ключ-l",
+          "menuName": null,
+          "caption": "Ключ",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

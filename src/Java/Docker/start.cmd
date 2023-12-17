@@ -1,0 +1,1 @@
+docker-compose -p novyjj_postamat-java up -d

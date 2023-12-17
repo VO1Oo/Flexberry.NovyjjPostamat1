@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Пользователь",
+      "projection": "ПользовательL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Ключ",
+  "name": "IISNovyjj_postamatКлючE",
+  "className": "КлючE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-novyjj-postamat-ключ",
+      "modelProjection": "КлючE"
+    }
+  ]
+}

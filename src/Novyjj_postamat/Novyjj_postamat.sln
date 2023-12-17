@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novyjj_postamat.Objects", "Objects/Novyjj_postamat.Objects.csproj", "dbbbb710-a105-4e31-8aa8-9e3c2a92e740"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novyjj_postamat.Tests", "Tests/Novyjj_postamat.Tests.csproj", "dfa0db8b-6623-4441-afe4-bf454ca9878d"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novyjj_postamat.ODataBackend", "ODataBackend/Novyjj_postamat.ODataBackend.csproj", "c2c28ff3-3e98-482b-b2e8-ddae841b715c"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novyjj_postamat.IntegrationTests", "IntegrationTests/Novyjj_postamat.IntegrationTests.csproj", "33655b47-5ab5-4a04-9356-a104c264739c"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		dbbbb710-a105-4e31-8aa8-9e3c2a92e740.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		dbbbb710-a105-4e31-8aa8-9e3c2a92e740.Debug|Any CPU.Build.0 = Debug|Any CPU
+		dbbbb710-a105-4e31-8aa8-9e3c2a92e740.Release|Any CPU.ActiveCfg = Release|Any CPU
+		dbbbb710-a105-4e31-8aa8-9e3c2a92e740.Release|Any CPU.Build.0 = Release|Any CPU
+		dfa0db8b-6623-4441-afe4-bf454ca9878d.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		dfa0db8b-6623-4441-afe4-bf454ca9878d.Debug|Any CPU.Build.0 = Debug|Any CPU
+		dfa0db8b-6623-4441-afe4-bf454ca9878d.Release|Any CPU.ActiveCfg = Release|Any CPU
+		dfa0db8b-6623-4441-afe4-bf454ca9878d.Release|Any CPU.Build.0 = Release|Any CPU
+		c2c28ff3-3e98-482b-b2e8-ddae841b715c.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		c2c28ff3-3e98-482b-b2e8-ddae841b715c.Debug|Any CPU.Build.0 = Debug|Any CPU
+		c2c28ff3-3e98-482b-b2e8-ddae841b715c.Release|Any CPU.ActiveCfg = Release|Any CPU
+		c2c28ff3-3e98-482b-b2e8-ddae841b715c.Release|Any CPU.Build.0 = Release|Any CPU
+		33655b47-5ab5-4a04-9356-a104c264739c.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		33655b47-5ab5-4a04-9356-a104c264739c.Debug|Any CPU.Build.0 = Debug|Any CPU
+		33655b47-5ab5-4a04-9356-a104c264739c.Release|Any CPU.ActiveCfg = Release|Any CPU
+		33655b47-5ab5-4a04-9356-a104c264739c.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

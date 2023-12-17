@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-novyjj-postamat-транзакция-e",
+  "editForm": "i-i-s-novyjj-postamat-транзакция-e",
+  "external": false,
+  "caption": "Транзакция",
+  "name": "IISNovyjj_postamatТранзакцияL",
+  "className": "ТранзакцияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-novyjj-postamat-транзакция",
+      "modelProjection": "ТранзакцияL"
+    }
+  ]
+}

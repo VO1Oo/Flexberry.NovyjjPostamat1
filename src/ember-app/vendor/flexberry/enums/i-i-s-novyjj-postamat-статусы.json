@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.Novyjj_postamat",
+  "className": "Статусы",
+  "enumObjects": {
+    "1": "Работает",
+    "2": "Не работает"
+  }
+}

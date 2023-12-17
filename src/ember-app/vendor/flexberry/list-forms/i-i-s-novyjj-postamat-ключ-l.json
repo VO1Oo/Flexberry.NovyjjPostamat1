@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-novyjj-postamat-ключ-e",
+  "editForm": "i-i-s-novyjj-postamat-ключ-e",
+  "external": false,
+  "caption": "Ключ",
+  "name": "IISNovyjj_postamatКлючL",
+  "className": "КлючL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-novyjj-postamat-ключ",
+      "modelProjection": "КлючL"
+    }
+  ]
+}
